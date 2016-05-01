@@ -306,5 +306,5 @@ imager::capture.plot(im)
 
 aa = imager::as.cimg( PostprocessImage(img) )
 plot(aa)
-################################################# fuck
+################################################# 
 
